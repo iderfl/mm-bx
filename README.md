@@ -113,6 +113,13 @@
 >   可拖动蓝条开启方法剑心插件-常用-技能增强-额外可拖动的蓝条
 >   ![image](https://github.com/iderfl/mm-bx/assets/90140812/e4910717-76b3-40a6-b92f-e5914bc57206)
 
+> [!TIP]
+> 取图/取色完成后的展示  
+> ![image](https://github.com/iderfl/mm-bx/assets/90140812/7ce330aa-aee3-43a8-bd59-1bc58d655d84)  
+> ![image](https://github.com/iderfl/mm-bx/assets/90140812/fa6eff39-f04d-4369-a4e4-e866750eafe6)
+
+
+
 
 
 
