@@ -1,5 +1,5 @@
-*  [2.0版本教程](https://github.com/iderfl/mm-bx/blob/main/2.0%E6%95%99%E7%A8%8B.md)
-*  [1.2版本教程](https://github.com/iderfl/mm-bx/blob/main/1.2%E6%95%99%E7%A8%8B.md)
+*  [点击查看2.0版本教程](https://github.com/iderfl/mm-bx/blob/main/2.0%E6%95%99%E7%A8%8B.md)
+*  [点击查看1.2版本教程](https://github.com/iderfl/mm-bx/blob/main/1.2%E6%95%99%E7%A8%8B.md)
 ## 更新日志没说需要重新取色/换宏/换监控就是不需要，如果需要会写在更新日志里面
 
 ## 职业制作不易，如果觉得不错可以打赏作者，精神支持亦可
