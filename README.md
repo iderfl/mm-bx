@@ -1,6 +1,15 @@
 *  [2.0版本教程](https://github.com/iderfl/mm-bx/blob/main/2.0%E6%95%99%E7%A8%8B.md)
 *  [1.2版本教程](https://github.com/iderfl/mm-bx/blob/main/1.2%E6%95%99%E7%A8%8B.md)
 ## 更新日志没说需要重新取色/换宏/换监控就是不需要，如果需要会写在更新日志里面
+
+## 职业制作不易，如果觉得不错可以打赏作者，精神支持亦可
+<details>
+<summary>叽付宝</summary>  
+	
+![87dcc65ee628ac8963c01c977330726b](https://github.com/iderfl/mm-bx/assets/90140812/fc855b87-7474-4a6b-8f25-38ef055ced79)
+	
+</details>  
+
 # 更新日志
 ## [雾海寻龙]冰心2.0版本发布，2024年5月11日
 [雾海寻龙]冰心2.0版本发布，2024年5月11日
