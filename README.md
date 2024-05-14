@@ -1,24 +1,42 @@
-*  [点击查看2.0~2.1版本教程](https://github.com/iderfl/mm-bx/blob/main/2.0%E6%95%99%E7%A8%8B.md)
-*  [点击查看1.2版本教程](https://github.com/iderfl/mm-bx/blob/main/1.2%E6%95%99%E7%A8%8B.md)
-## 更新日志没说需要重新取色/换宏/换监控就是不需要，如果需要会写在更新日志里面
-
 ## 职业制作不易，如果觉得不错可以打赏作者，精神支持亦可
 <details>
-<summary>叽付宝</summary>  
+<summary>叽付宝二维码</summary>  
 	
 ![87dcc65ee628ac8963c01c977330726b](https://github.com/iderfl/mm-bx/assets/90140812/fc855b87-7474-4a6b-8f25-38ef055ced79)
 	
 </details>  
+
+
+## 可以找作者定制九宫格翻牌监控，效果如下
+<details>
+<summary>点击查看</summary> 
+
+* 效果预览  
+![image](https://github.com/iderfl/mm-bx/assets/90140812/c9208e0f-c7ca-40bb-94da-9ab40e191965)
+![QQ2024511-224135 -original-original](https://github.com/iderfl/mm-bx/assets/90140812/832907a5-0b0c-477e-baa3-7a4e7691fabb)  
+
+	可以是释放技能把黑色翻成图片（释放技能后显示图）  
+	也可以图片翻成黑色（释放技能后显示黑色）
+  
+* 以下是支持的图片  
+  ![image](https://github.com/iderfl/mm-bx/assets/90140812/f4819353-cb9b-4c19-9ebb-1dea265f5f61)
+
+</details>  
+
+# 教程链接
+
+*  [点击查看2.0~2.1版本教程](https://github.com/iderfl/mm-bx/blob/main/2.0%E6%95%99%E7%A8%8B.md)
+*  [点击查看1.2版本教程](https://github.com/iderfl/mm-bx/blob/main/1.2%E6%95%99%E7%A8%8B.md)
+
+## 更新日志没说需要重新取色/换宏/换监控就是不需要，如果需要会写在更新日志里面
+
+
 
 # 更新日志
 ## [雾海寻龙]冰心2.1版本发布，2024年5月11日23：00  
 ___1.修复低延迟用户无法打出非繁音期间芳姿玳弦的问题___   
 ___2.添加了无爆发模式，可以在使用中切换，不打腰坠/繁音；会打芳姿剑气___  
 * 【不换监控】【不改宏】【不用重新取色】 
-* 新做了个好看且无需黑色背景的监控（只是美化，换了图标），但是设置比较废脑子，需要的话找调试帮你设置  
-* 目前只做了聊天框右边这个位置的，需要其他位置的话请扫描打赏二维码    
-![image](https://github.com/iderfl/mm-bx/assets/90140812/c9208e0f-c7ca-40bb-94da-9ab40e191965)  
-![QQ2024511-224135 -original-original](https://github.com/iderfl/mm-bx/assets/90140812/832907a5-0b0c-477e-baa3-7a4e7691fabb)  
 
 <details>
 <summary>[雾海寻龙]冰心2.0版本发布，2024年5月11日</summary>  
